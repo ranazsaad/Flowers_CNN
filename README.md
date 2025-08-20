@@ -18,9 +18,9 @@ This project uses **TensorFlow + Keras** for training and **Streamlit** for a in
 
 ##  Preview  
 <p align="center">
-  <img src="UI2.png" alt="UI2" height="200px"/>
+  <img src="UI2.png" alt="UI2" height="250px"/>
   &nbsp;&nbsp;
-  <img src="UI1.png" alt="UI1" height="200px"/>
+  <img src="UI1.png" alt="UI1" height="250px"/>
 </p>
 
 ---
