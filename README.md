@@ -16,11 +16,11 @@ This project uses **TensorFlow + Keras** for training and **Streamlit** for a in
 
 ---
 
-## 📸 Preview  
+##  Preview  
 <p align="center">
-  <img src="UI2.png" alt="UI2" width="45%"/>
+  <img src="UI2.png" alt="UI2" height="200px"/>
   &nbsp;&nbsp;
-  <img src="UI1.png" alt="UI1" width="45%"/>
+  <img src="UI1.png" alt="UI1" height="200px"/>
 </p>
 
 ---
